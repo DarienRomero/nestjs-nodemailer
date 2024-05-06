@@ -1,6 +1,6 @@
 {
   "name": "@iaminfinity/nodemailer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nest - modern, fast, powerful node.js web framework (@nodemailer)",
   "author": "Fahim Rahman",
   "license": "MIT",
@@ -17,7 +17,7 @@
   },
   "peerDependencies": {
     "@nestjs/common": "^10.3.7",
-    "reflect-metadata": "^0.1.12",
+    "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1"
   },
   "devDependencies": {
